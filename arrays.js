@@ -7,19 +7,19 @@ let age = document.querySelector(".age");
 // CODE ALONG
 // 1. Update the variable fruitList so that it is an array with at least 4 fruits.
 let fruitList = ["kiwi", "tomato", "watermelon", "gua gua", "bombleberry", "strawberry"];
-console.log();
+console.log(fruitList);
 
 // 2. Update the variable flowerList so that it is an array with at least 4 flowers.
 let flowerList = ["Tulip", "Carnation", "Sun Flower", "Snuffle"];
-console.log();
+console.log(flowerList);
 
 // 3. Update the variable colorList so that it is an array with at least 4 different colors.
 let colorList = ["Cotton Candy", "Carbon", "Violet", "Gray", "Blue", "Grey"];
-console.log();
+console.log(colorList);
 
 // 4. Update the variable ageList so that it is an array with a list of ages (numbers) of classmates and volunteers.
 let ageList = [16, 21, 17, 18];
-console.log();
+console.log(ageList);
 
 
 // CODE SOLO
